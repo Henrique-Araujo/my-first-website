@@ -1,0 +1,26 @@
+#video-placeholder {
+    
+}
+
+body {
+	width: 600px;
+	border: 1px black;
+}
+
+#translation {
+	color: blue;
+}
+
+.buttons button {
+	padding: 10px;
+}
+
+#speed {
+	padding: 10px;
+	color: blue;
+}
+
+#speed-controls {
+	background: #ccc;
+	padding: 10px;
+}
