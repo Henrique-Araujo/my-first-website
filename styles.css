@@ -2,6 +2,11 @@
     
 }
 
+html {
+	background: black;
+	color: #eee;
+}
+
 body {
 	width: 600px;
 	border: 1px black;
@@ -15,6 +20,10 @@ body {
 	padding: 10px;
 }
 
+#slow {
+	background: #ccc;
+}
+
 #speed {
 	padding: 10px;
 	color: blue;
@@ -23,4 +32,8 @@ body {
 #speed-controls {
 	background: #ccc;
 	padding: 10px;
+}
+
+.x {
+	padding: 0 10px;
 }
