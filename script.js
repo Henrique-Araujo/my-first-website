@@ -7,7 +7,7 @@ const NORMAL_PLAYBACK_RATE_INDEX = 3;
 const DEFAULT_SLOW_PLAYBACK_RATE = 0.5;
 var currentPbRateIndex;
 var SLOW_PLAYBACK_RATE_INDEX = NORMAL_PLAYBACK_RATE - 2;
-var currentPartIndex = 3;
+var currentPartIndex = 0;
 var currentPbRate = 0.5;
 var songPartsMap = [
     {
